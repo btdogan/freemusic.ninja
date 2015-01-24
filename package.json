@@ -26,6 +26,7 @@
     "broccoli-sass": "~0.2.3",
     "broccoli-static-compiler": "~0.2.1",
     "ember-cli": "0.0.46",
+    "ember-cli-autoprefixer": "^0.2.0",
     "ember-cli-django-rest-auth": "~0.3.0",
     "ember-cli-ic-ajax": "0.1.1",
     "ember-cli-inject-live-reload": "^1.0.2",
